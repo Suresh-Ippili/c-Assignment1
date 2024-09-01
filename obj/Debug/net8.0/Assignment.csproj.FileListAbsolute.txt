@@ -1,0 +1,14 @@
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\Dot-Net Training Wirpo\Day-1\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
