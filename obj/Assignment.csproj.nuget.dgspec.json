@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dot-Net Training Wirpo\\Day-1\\Assignment\\Assignment\\Assignment.csproj": {}
+    "C:\\Assignments\\Assignment-1\\Assignment-1\\Assignment.csproj": {}
   },
   "projects": {
-    "D:\\Dot-Net Training Wirpo\\Day-1\\Assignment\\Assignment\\Assignment.csproj": {
+    "C:\\Assignments\\Assignment-1\\Assignment-1\\Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dot-Net Training Wirpo\\Day-1\\Assignment\\Assignment\\Assignment.csproj",
+        "projectUniqueName": "C:\\Assignments\\Assignment-1\\Assignment-1\\Assignment.csproj",
         "projectName": "Assignment",
-        "projectPath": "D:\\Dot-Net Training Wirpo\\Day-1\\Assignment\\Assignment\\Assignment.csproj",
-        "packagesPath": "C:\\Users\\Suhas\\.nuget\\packages\\",
-        "outputPath": "D:\\Dot-Net Training Wirpo\\Day-1\\Assignment\\Assignment\\obj\\",
+        "projectPath": "C:\\Assignments\\Assignment-1\\Assignment-1\\Assignment.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Assignments\\Assignment-1\\Assignment-1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Suhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
